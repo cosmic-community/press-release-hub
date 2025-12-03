@@ -29,7 +29,7 @@ This application was built using the following prompts to generate the content s
 
 ### Content Model Prompt
 
-> "https://www.prweb.in/"
+> "https://pulsewire.weebly.com/"
 
 ### Code Generation Prompt
 
