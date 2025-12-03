@@ -2,7 +2,7 @@
 
 ![App Preview](https://imgix.cosmicjs.com/5f1c3c30-d037-11f0-9f4a-931d397d1861-photo-1509391366360-2e959784a276-1764759667571.jpg?w=1200&h=300&fit=crop&auto=format,compress)
 
-A professional press release distribution platform built with Next.js 16 and powered by Cosmic CMS. This application provides a beautiful, media-friendly interface for publishing and browsing company press releases with rich company profiles and category filtering.
+A professional [press release distribution platform ](https://www.prweb.in/) built with Next.js 16 and powered by Cosmic CMS. This application provides a beautiful, media-friendly interface for publishing and browsing company press releases with rich company profiles and category filtering.
 
 ## ✨ Features
 
